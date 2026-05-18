@@ -1,3 +1,7 @@
+**English** | [简体中文](README.zh-Hans.md)
+
+---
+
 # Health Push — Support
 
 Health Push is an iOS app that exports your Apple Health (HealthKit)

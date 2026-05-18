@@ -1,3 +1,7 @@
+**English** | [简体中文](PRIVACY.zh-Hans.md)
+
+---
+
 # Health Push — Privacy Policy
 
 **Effective date: May 18, 2026**
