@@ -5,8 +5,8 @@
 # Health Push — Support
 
 Health Push is an iOS app that exports your Apple Health (HealthKit)
-data as clean, structured JSON files designed to be consumed by LLM
-agents (ChatGPT, Claude, local models, etc.).
+data as clean, structured JSON files designed to be consumed by AI
+assistants, large language models, local models, and other AI agents.
 
 This page is the official support channel for the app.
 

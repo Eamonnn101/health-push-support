@@ -5,8 +5,8 @@
 # Health Push — 技术支持
 
 Health Push 是一款 iOS 应用，把你的 Apple Health（HealthKit）数据
-导出为干净、结构化的 JSON 文件，专为 LLM Agent（ChatGPT、Claude、
-本地大模型等）读取而设计。
+导出为干净、结构化的 JSON 文件，专为 AI 助手、大模型、本地模型
+等 AI Agent 读取而设计。
 
 本页面是该 App 的官方技术支持入口。
 
